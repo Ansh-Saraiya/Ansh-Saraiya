@@ -1,15 +1,14 @@
-###                                                      Hi there, I'm Ansh - aka SRYA 👋 
+###                                                      Hi there, I'm Ansh - aka "Saraiya" 👋 
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_saraiyaaa/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KindlyAnsh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a student who loves to code!
 
-- I just started learning python.
-- I’m currently working on a project.
-- 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- Currently learning Python, HTML5, CSS3 and Javascript.
+- Trying to get a code working for a project.
+- 🥅 2022 Goals: Create more executable projects and learn as much as humanely possible.
+- ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
 
