@@ -4,18 +4,18 @@ An ambitious programmer who yearns to learn...
 
 ---
 
-### I'm a student who loves to code!
+### I'm a student who loves to code! 😁
 
-- Can code on an intermediate level in Python.
-- Currently learning HTML5, CSS3 and Javascript.
-- Brainstorming a code for an executable project.
-- 2022 Goals: Create more executable projects and learn as much as humanely possible.
+- 💻 Can code on an intermediate level in Python.
+- 🤕 Currently learning HTML5, CSS3 and Javascript.
+- 🧠 Brainstorming a code for an executable project.
+- 😎 2022 Goals: Create more executable projects and learn as much as humanely possible.
 
 ---
 
 ### More about me:
 
-Guitarist | Gamer | An avid reader | Lofi-head | Extrovert
+Guitarist | Gamer | An avid reader | Lofi-head | Japanese | Extrovert
 
 ---
 
