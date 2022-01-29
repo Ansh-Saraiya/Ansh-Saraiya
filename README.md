@@ -1,6 +1,8 @@
 ##                                                      Hi there, I'm Ansh 👋 
 
-An ambitious programmer who yearns to learn...   ![Uploading new-game-ahagon-umiko-programming.gif…]()
+An ambitious programmer who yearns to learn...
+
+![Uploading new-game-ahagon-umiko-programming.gif…]()
 
 ---
 
