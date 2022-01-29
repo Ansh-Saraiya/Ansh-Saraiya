@@ -1,15 +1,21 @@
 ##                                                      Hi there, I'm Ansh 👋 
 
-An ambitious programmer who loves to learn...
+An ambitious programmer who yearns to learn...
 
 ---
 
 ### I'm a student who loves to code!
 
-- Currently learning Python, HTML5, CSS3 and Javascript.
-- Trying to get a code working for a project.
+- Can code on an intermediate level in Python.
+- Currently learning HTML5, CSS3 and Javascript.
+- Brainstorming a code for an executable project.
 - 2022 Goals: Create more executable projects and learn as much as humanely possible.
-- Fun fact: I love to play guitar
+
+---
+
+### More about me:
+
+Guitarist | Gamer | An avid reader | Lofi-head | Extrovert
 
 ---
 
@@ -29,5 +35,3 @@ An ambitious programmer who loves to learn...
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
