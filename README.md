@@ -5,7 +5,7 @@ An ambitious programmer who yearns to learn...
 
 ![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/92269707/151673122-4694e686-417b-4197-a701-fc2f52b7bb3e.gif)
 
-[![Spotify](https://novatorem-ansh-saraiya.vercel.app/api/spotify)](https://open.spotify.com/user/6n0giracxjiit8xdisr3qeh3w)
+[<img src="https://novatorem-ansh-saraiya.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/6n0giracxjiit8xdisr3qeh3w)
 
 ---
 
