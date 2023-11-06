@@ -97,7 +97,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
+[![](https://visitcount.itsvg.in/api?id=Ansh-Saraiya&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 [![](https://visitcount.itsvg.in/api?id=Ansh-Saraiya&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
