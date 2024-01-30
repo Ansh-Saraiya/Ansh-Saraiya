@@ -95,15 +95,15 @@
 </p>
 
 
-<!--profile visit count-->
+<!--profile visit count
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=Ansh-Saraiya&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 [![](https://visitcount.itsvg.in/api?id=Ansh-Saraiya&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
+-->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
